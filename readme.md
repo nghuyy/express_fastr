@@ -1,6 +1,8 @@
 Cài đặt:
  ```shell script
   npm install @ng.huyy/express_fastr --save
+ Hoặc:
+  npm install --save-dev git+ssh://github.com/nghuyy/express_fastr.git
  ```
 Sử dụng:
 ```javascript
