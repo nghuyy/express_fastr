@@ -1,11 +1,1 @@
-{
-  "name": "@ng.huyy/express_fastr",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-}
+{"name":"@ng.huyy/express_fastr","version":"1.0.1","version-code":2,"description":"","main":"index.js","scripts":{},"author":"","license":"ISC"}
